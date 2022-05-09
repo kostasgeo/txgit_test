@@ -2,6 +2,6 @@ git:
   filters:
   - filter_type: file
     file_format: KEYVALUEJSON
-    source_file: en/example.json
+    source_file: en/examples.json
     source_language: en
-    translation_files_expression: '<lang>/example.json'
+    translation_files_expression: '<lang>/examples.json'
