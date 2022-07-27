@@ -4,12 +4,11 @@ git:
     file_format: KEYVALUEJSON
     source_file_extension: json
     source_language: en_GB
-    source_file_dir: config/locales/en-GB/
+    source_file_dir: config/locales/en_GB/
     translation_files_expression: 'config/locales/<lang>/'
 
   settings:
     language_mapping:
-      en_GB: en-GB
       de_DE: de-DE
 
 
