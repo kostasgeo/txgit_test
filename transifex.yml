@@ -10,5 +10,6 @@ git:
   settings:
     language_mapping:
       el_GR: el-GR
+      el_DE: el-DE
 
 
