@@ -7,8 +7,8 @@ git:
     source_file_dir: config/locales/en_GB/
     translation_files_expression: 'config/locales/<lang>/'
 
-  settings:
-    language_mapping:
-      de_DE: de-DE
+  # settings:
+  #   language_mapping:
+  #     de_DE: de-DE
 
 
