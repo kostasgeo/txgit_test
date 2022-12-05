@@ -1,0 +1,13 @@
+# 
+# Translators:
+# Konstantinos Georgakilas, 2022
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Konstantinos Georgakilas, 2022\n"
+"Language-Team: Spanish (https://example.com/kg/teams/9/es/)\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+msgid "test"
+msgstr "EspaÃ±a"
