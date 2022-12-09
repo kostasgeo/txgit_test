@@ -1,0 +1,901 @@
+﻿﻿"connectionDidFailAlertTitleKey" = "Error en la conexión";
+"connectionDidFailAlertMessageKey" = "Por favor prueba de nuevo";
+"genericAlertMessageKey" = "Ocurrió un error. Por favor intenta más tarde";
+
+"submit" = "Submit";
+"goToSettings" = "Go to Settings";
+"maybeLater" = "Maybe later";
+
+//PassengerAppDelegate
+
+"servicesDisabledAlertTitleKey" = "Los servicios de localización están deshabilitados";
+"locationSettingsKey" = "Ajustes";
+"okKey" = "OK";
+
+// StartView
+
+"chooseYourCountryTitleKey" = "GPS no identifica tu posición";
+"chooseYourCountryMessageKey" = "Para acceder a nuestro servicio por favor selecciona tu ubicación actual";
+"allOtherCountriesKey" = "Otro país";
+"rateNavbarTitleKey" = "Califica";
+"sendButtonKey" = "Enviar";
+"updateDetailsPersonalKey" = "Personal";
+"contactUsKey" = "Contáctanos";
+"signOutKey" = "Salir";
+"confirmLogoutKey" = "¿Deseas salir del sistema?";
+"registrationEMailPlaceholderKey" = "Tu correo electrónico";
+"registrationMobilePlaceholderKey" = "Tu número celular";
+"phoneNumberKey" = "Número de celular";
+"nameLabelKey" = "Nombre";
+"emailLabelKey" = "Correo electrónico";
+"incorrectRegistrationDataAlertTitleKey" = "Datos incorrectos";
+"incorrectRegistrationDataAlertMessageKey" = "Por favor, llena todos los campos correctamente";
+"resetPasswordActionKey" = "Te hemos enviado un SMS con tu código de verificación.";
+"noConnectionSplashScreenTitleKey" = "No se puede conectar a Beat";
+"noConnectionSplashScreenMessageKey" = "Debe conectarse vía Wifi o a la red de datos";
+
+// RegisterView
+
+"termsConditionsTitleKey" = "Términos de Uso";
+"resendButtonKey" = "Reenviar el SMS";
+"nameKey" = "Nombre";
+
+// SearchView
+
+"nextKey" = "Siguiente";
+"closeButtonKey" = "Cerrar";
+"fillYourPromoCodeTitleKey" = "Código Promocional";
+
+// LocationView
+
+"callDriverAlertTitleKey" = "Llamar";
+"callDriverAlertCancelKey" = "Cancelar";
+"taxiArrivedAlertTitleKey" = "Llegó Beat";
+"noaddressAlertMessageKey" = "Dirección no válida";
+"canceledAlertTitleKey" = "Servicio cancelado por el conductor";
+"towardsDriverCancelledMessageKey" = "Tal vez fue un accidente ¿Ocurrió algún problema?";
+"towardsRideTookPlaceKey" = "No, servicio completado";
+"towardsRideCancelledKey" = "Sí, servicio cancelado";
+"taxiPinTitleKey" = "Tu Beat";
+"laterButtonKey" = "Más tarde";
+"driverMessageAlertKey" = "¡Tienes un mensaje del conductor!";
+"towardsTitleKey" = "Conductor en camino";
+"arrivingInKey" = "LLEGARÁ EN";
+"rideEndedTitleKey" = "El conductor oprimió \"Fin de Viaje\"";
+"addressUnknownKey" = "Dirección desconocida";
+"updatingLocationKey" = "Actualizando tu ubicación...";
+
+// DriverView
+
+"servicesLabelKey" = "Servicios";
+"infoViewTitleKey" = "Servicios del Taxi";
+"languagesLabelKey" = "Idiomas que habla el conductor";
+"cashKey" = "Efectivo";
+"wifiLabelKey" = "Cuenta con conexión a internet";
+"chargerLabelKey" = "Provee cargador para tu celular";
+"babySeatsLabelKey" = "El vehículo cuenta con asiento para bebé";
+"acLabelKey" = "Cuenta con aire acondicionado";
+"TVLabelKey" = "TV en el taxi";
+"AMEALabelKey" = "Facilidades para discapacitados";
+"petsLabelKey" = "Acepta mascotas";
+"receiptLabelKey" = "Emite recibos";
+"creditcardLabelKey" = "Acepta tarjetas de crédito";
+"airportLabelKey" = "Puede recoger pasajeros en el aeropuerto";
+"banistaLabelKey" = "Acepta carreras a la playa";
+"debitLabelKey" = "Acepta tarjetas de débito";
+
+// DriverData
+
+"metersKey" = "m";
+"kmetersKey" = "km";
+
+// RatingView
+
+"cancelButtonKey" = "Cancelar";
+"ratingExplanationKey" = "Las calificaciones son anónimas";
+
+//ShareView
+
+"retryKey" = "Intenta de nuevo";
+
+// ContactView
+
+"messageReceivedTextViewKey" = "Gracias por escribirnos, nos pondremos en contacto contigo.";
+
+//NewSearchMenuView
+
+"myBookmarksKey" = "Favoritos";
+"placesKey" = "Lugares";
+"wifiPasswordCopyToClipboardKey" = "Copiar";
+"noThanksKey" = "No, gracias";
+"myAccountKey" = "Mi cuenta";
+"saveKey" = "Listo";
+"profileKey" = "Perfil";
+"addFavouriteTitleKey" = "Agregar a favoritos";
+
+//COURIERView
+
+"courierTaxiServicesTitleKey" = "Información";
+"courierExitRouteAlertTitleKey" = "Salir del Envío?";
+"courierExitRouteAlertMessageKey" = "Al presionar este botón regresará a la pantalla principal. Puedes volver a esta pantalla en cualquier momento";
+
+//PERMISSIONView
+"fareKey" = "Tarifa";
+"rideCanceledMessageKey" = "El conductor tuvo que cancelar el viaje. ¡No te preocupes! Muchos más están disponibles cerca. ¡Encuentra otro Beat ahora!";
+"taximeterFareKey" = "Tarifa";
+
+//Voice Over - Blind system
+"menuButtonKey" = "Menú";
+"backButtonKey" = "Regresar";
+"RatingExplanationViewBlindKey" = "Si tu calificación es inferior a tres estrellas, nos interesara saber qué salió mal. Por favor elige una de las opciones.";
+
+//search view
+
+"starButtonKey" = "Estrella";
+"phoneCallButtonKey" = "Llamar al conductor";
+"locationsMenuButtonKey" = "Libreta de direcciones";
+
+//Karma Strings
+
+"gotItButtonKey" = "Listo";
+"welcomeTitleKey" = "¡Bienvenido!";
+
+//Favorite Drivers string
+
+"removeFavouriteDriverRatingAlertTitleKey" = "Conductor Favorito";
+"removeFavouriteDriverRatingAlertMessageKey" = "Parece que este viaje no fue lo mejor; ¿deseas eliminar al conductor de tus Favoritos?";
+"myRidesKey" = "Mis viajes";
+"removeHimKey" = "Si, eliminar";
+"dontRemoveHimKey" = "No, mantenerlo";
+"detailsKey" = "Detalles";
+
+//Payments-Tips
+
+"paymentsTitleKey" = "Pagos";
+"cardNumberPlaceholderKey" = "Número de tarjeta";
+"cvcCodeExplanationLabelKey" = "Ingresa los últimos %i dígitos del reverso de tu tarjeta";
+"deleteKey" = "Eliminar";
+"deleteCreditCardMessageKey" = "¿Estás seguro que deseas remover ésta tarjeta de crédito de la lista?";
+"notSupportedCreditCardMessageKey" = "Tarjeta de Crédito/Débito no fue admitida";
+"creditCardFailedFromServerAlertTitleKey" = "Parece que la información de tu tarjeta es inválida";
+"creditCardFailedFromServerAlertMessageKey" = "Por favor verifica la información de tu tarjeta e intenta de nuevo. Si continúa el problema, por favor contáctanos. ";
+"expirationDateExplanationKey" = "Ingresa la fecha de expiración de tu tarjeta";
+"paymentViewCreditCardExplanationKey" = "Tu viaje será cobrado directamente de tu tarjeta de crédito";
+"addCardDetailsKey" = "Agregar datos de tarjeta";
+
+// NEW REGISTER - LOGIN
+
+"orKey" = "o";
+"termsOfServiceAgreeLabelKey" = "He leído y acepto los";
+"termsOfServiceCheckBoxLabelKey" = "Acepto los";
+"registerPhoneExplanationLabelKey" = "Ingresa tu número celular para verificar tu cuenta y estar en contacto";
+"numberVerificationExplanationLabelKey" = "Escribe el código de verificación que hemos enviado a:";
+"heyKey" = "¡Hey";
+"preferencesKey" = "Preferencias";
+"rideSummaryEmailKey" = "Resumen de viajes por correo";
+"changeMobileNumberTitleKey" = "Cambiar número celular";
+
+//CREDIT CARDS - ALERTS
+
+"creditCardExpiredAlertMessageKey" = "Tu tarjeta %@ ha expirado. Ingresa los detalles actualizados de tu tarjeta o elige otra forma de pago para empezar tu viaje.";
+
+//PROMO - SHARE
+
+"shareLoveKey" = "Compártelo ";
+"referFriendKey" = "¡Refiere y gana!";
+"promotionsKey" = "Promociones";
+"skipKey" = "Saltar";
+"shareButtonKey" = "Compartir";
+
+"searchingKey" = "Buscando";
+"searchForKey" = "Buscar";
+"enterStreetNumberKey" = "Por favor ingrese el número exacto";
+"distancePricingFullExplanationTitle4Key" = "Peajes";
+"distancePricingFullExplanationMessage4Key" = "no incluido";
+
+// Coupons
+
+"couponsAvailableForYourNextRidesKey" = "Disponible para tus próximos viajes";
+"couponsWalletKey" = "Billetera";
+"couponsNoActiveCouponsAvailableKey" = "No tienes cupones disponibles ahora";
+"couponsBecomeAvailableKey" = "¡Recuerda volver a revisar con frecuencia, ya que podemos otorgar cupones de forma periódica!";
+"couponsDoYouHaveAPromoCodeKey" = "¿Tienes un código promocional?";
+"couponsAddPromoCodeKey" = "Añadir código promocional";
+"couponsWalletDetailsKey" = "Los fondos de tu Billetera Virtual se utilizan siempre en conjunto con tus cupones disponibles, antes de realizar el cobro del viaje.";
+"couponsCouponsKey" = "Cupones";
+"couponsValidUntilKey" = "Válido hasta";
+"couponsServiceKey" = "Servicio";
+"couponsRidesLeftKey" = "Quedan %@ viajes";
+"couponsDiscountPerRideKey" = "%@por viaje";
+"couponsNotAvailableTodayKey" = "No disponible hoy";
+"couponsNotAvailableAtTheMomentKey" = "No disponible por el momento";
+"couponsConditionsKey" = "Condiciones";
+"couponsMinimumFareKey" = "Tarifa mínima: %@";
+"couponsMaximumDiscountKey" = "Descuento máximo: %@";
+"couponsSundayKey" = "Domingo";
+"couponsMondayKey" = "Lunes";
+"couponsTuesdayKey" = "Martes";
+"couponsWednesdayKey" = "Miércoles";
+"couponsThursdayKey" = "Jueves";
+"couponsFridayKey" = "Viernes";
+"couponsSaturdayKey" = "Sábado";
+"couponsAllDaysKey" = "Todos los días";
+"couponsCreditCardKey" = "Tarjeta de crédito";
+"couponsCashKey" = "Efectivo";
+"couponsOnlyKey" = "solo";
+"couponsAllCitiesKey" = "Todas las ciudades";
+"couponsAllServicesKey" = "Todos los servicios";
+"couponsAllPaymentMeansKey" = "Todos los medios de pago";
+"couponsAllHoursKey" = "A toda hora";
+"couponsExpiredCouponKey" = "El código promocional ha expirado";
+"couponIncorrectCouponKey" = "El código promocional no es correcto";
+"couponAlreadyUsedKey" = "El código promocional ya ha sido usado";
+"couponAlreadyAddedKey" = "El código promociona ya ha sido añadido";
+"couponErrorTitleKey" = "Algo salió mal, no pudimos cargar tu cupón";
+"couponTryAgainKey" = "Intenta otra vez";
+"couponPromoAppliedKey" = "Promo aplicada";
+"couponsAddSomethingWentWrongKey" = "Algo salió mal, por favor intenta otra vez";
+"couponsMoreInfoKey" = "Para más información, lee nuestros";
+"couponsTermsOfUseKey" = "Términos de Uso";
+"couponStartDateTimeKey" = "Fecha y hora de inicio:";
+"couponEndDateTimeKey" = "Fecha y hora de finalización:";
+"couponCodeKey" = "Código de cupón:";
+"couponDiscountPercentageKey" = "Porcentaje de descuento:";
+"couponDiscountAmountKey" = "Importe de descuento:";
+"couponNumberOfRidesKey" = "Número de viajes:";
+"couponCityKey" = "Ciudad:";
+"couponServicesKey" = "Servicios:";
+"couponPaymentMethodsKey" = "Métodos de pago:";
+"couponActiveDaysKey" = "Días de cupón activo:";
+"couponActiveTimeKey" = "Tiempo de cupón activo:";
+"couponFirstTimeUsersKey" = "Para usuarios por primera vez:";
+"couponsMinimumFareTermKey" = "Tarifa mínima:";
+"couponsMaximumDiscountTermKey" = "Descuento máximo:";
+"couponsCampaignKey" = "Campaña de cupones";
+
+//DISPATCH
+
+"newFindTaxiButtonKey" = "Buscar un Beat";
+"payWithKey" = "PAGAR CON";
+"searchAgainKey" = "Buscar otra vez";
+"retryingInternetConnectionKey" = "Reintentar en %@ seg...";
+"notReceiveSMSKey" = "Solicitar nuevo código";
+"slideToCancelKey" = "Desliza para cancelar";
+
+// Languages
+
+"englishLanguageKey" = "Inglés";
+"frenchLanguageKey" = "Francés";
+"germanLanguageKey" = "Alemán";
+"italianLanguageKey" = "Italiano";
+"portugueseLanguageKey" = "Portugués";
+"romanianLanguageKey" = "Rumano";
+"russianLanguageKey" = "Ruso";
+"spanishLanguageKey" = "Español";
+"turkishLanguageKey" = "Turco";
+"chineseMandarinLanguageKey" = "Chino";
+"greekLanguageKey" = "Griego";
+
+//NEW ADDS
+
+"wifiPasswordKey" = "Wifi";
+"termsOfUseKey" = "Términos de Uso";
+"deleteCardKey" = "Eliminar tarjeta";
+"laterKey" = "Después";
+"promoCodeOptionalKey" = "Código promocional";
+
+//Voice message
+
+"resetPasswordVoiceActionKey" = "Te hemos enviado un mensaje de voz para que escuches tu código de verificación.";
+"smsResendOptionsExplanationLabelKey" = "¿Aún tienes problemas? Nuestro equipo de soporte puede ayudarte";
+"smsResendOptionsMessageLabelKey" = "¿No recibiste el SMS? Solicítalo nuevamente o escucha el código PIN a través de un mensaje";
+"getVoiceMessageLabelKey" = "Llámenme para nuevo PIN";
+"helpKey" = "Ayuda";
+"messagePlaceholderKey" = "Tu mensaje";
+
+"optionalSafetyCodeKey" = "(Opcional)";
+
+//Enroute
+
+"totalFareKey" = "TARIFA";
+"smsResendOptionsLoggeInMessageLabelKey" = "¿Te olvidaste tu código Pin? Solicítalo nuevamente  o escucha tu código Pin a través de un mensaje de voz.";
+"recentsKey" = "Recomendados";
+"voucherDetailsKey" = "Detalles del Recibo";
+"pleaseWaitLabelKey" = "Por favor espera";
+"discountKey" = "Descuento";
+
+//New rating
+
+"rateRideKey" = "Califica a tu conductor";
+"whatWentWrongKey" = "¿En qué debe mejorar?";
+"submitKey" = "Enviar";
+"noFareAmountDialogMessageKey" = "La tarifa será mostrada una vez el viaje se haya completado.";
+"totalFareSurgeKey" = "Alta Demanda";
+
+//Share My Ride
+
+"shareMyRideSubjectKey" = "Mira mi viaje con Beat";
+"shareMyRideEmailMessageKey" = "Hey! Aquí puedes ver mi viaje con Beat! Ya voy en camino!";
+"shareMyRideSmsMessageKey" = "Mira mi viaje con Beat. Ya voy en camino!";
+"shareMyRideTitleKey" = "Compartir mi Viaje";
+"shareMyRideExplanationKey" = "Envía un link a tu familia o amigos. Ellos podrán ver tu viaje en tiempo real y saber cuándo llegarás.";
+
+//Live Chat
+
+"chatHintTypeYourMessageKey" = "Escribe aquí tu mensaje";
+"chatTitleKey" = "Chatea con nosotros";
+"chatNoMessagesTextKey" = "¿Necesitas soporte? Escríbenos y te responderemos lo más pronto posible.";
+"chatMessageNotSentKey" = "Mensaje no enviado. Intenta nuevamente.";
+"liveChatKey" = "Chat en vivo";
+
+//Share the Love New
+
+"copiedToClipboard" = "Copiado al portapapeles.";
+
+//Voice over fixes
+
+"receiptAccessibilityKey" = "Recibir resúmenes de viaje por correo on/off ";
+"cardNumberAcckey" = "Número de tarjeta";
+"threeLastDigitsAccKey" = "Tres últimos dígitos";
+"cardExpireAccKey" = "Ingresa la fecha de vencimiento";
+
+//Add Credit Cards - Dollar info
+
+"whyIsThatKey" = "Más información";
+"whatIsThatDialogMessageKey" = "Las transacciones son cobradas en moneda local. Sin embargo, algunos bancos pueden hacer el cobro en USD";
+"chargeInDollarsKey" = "Por favor ten en cuenta que los cargos podrían efectuarse en USD!";
+
+"promoCodeAdded" = "Código promocional agregado";
+"notificationsExplanationLabel" = "Recibe una notificación cuando el conductor ha llegado al lugar de recojo.";
+"rideLikeTheWindKey" = "Buenos Viajes";
+"emailRegistrationExplanationKey" = "Ingresa tu correo electrónico junto con tu nombre. ¡Prometemos que no enviaremos SPAM!";
+
+"noInternetConnectivity" = "Sin conexión a internet";
+
+"accountSuspendedDescription" = "Tu cuenta ha sido suspendida";
+
+//AD
+
+"beforeGetOutPayDriverKey" = "No olvides pagarle al conductor antes de bajar";
+"inaccurateLocation" = "No es una dirección exacta.";
+"minKey" = "min";
+"tapToDismissKey" = "Ver en el mapa";
+"cancellingKey" = "Cancelando";
+"towardsTooltipKey" = "Aquí está la información del conductor. Puedes llamarlo, compartir tu recorrido o cancelar el servicio.";
+"shareMyRideTabBarKey" = "Compartir";
+"cancelMyRideTabBarKey" = "Cancelar";
+"reenterUpdatedCard" = "Añade una tarjeta vigente";
+"yourCCExpiredKey" = "Tu tarjeta de débito/crédito expiró";
+"messageYorDriverKey" = "Envía un mensaje al conductor";
+"fareEstimateExplanationKey" = "Este es un estimado de la tarifa de tu viaje. La tarifa final que pagarás está basada en el taxímetro y puede variar debido al tráfico, clima, etc (aprox. ±10%). Además, las promociones y descuentos, tarifas fijas y cargos extras (peajes, etc.) no están incluidos en la tarifa estimada. *Las tarifas estimadas de los viajes desde o hacia el aeropuerto no son exactas. Cargos estándar son aplicados.";
+"blockedPaymentExplanationKey" = "No pudimos hacer el cobro de tu último viaje. Por favor, cambia tu método de pago o ingresa uno nuevo.";
+"paymentFailureKey" = "Error en el pago";
+"locatingYourAddressKey" = "Localizando";
+"servicesDisabledAlertMessageKey" = "Para poder usar esta aplicación debes habilitar los servicios de localización para Beat. Esto lo puedes hacer en la sección de Servicios dentro de Configuración";
+"contactDriverKey" = "Contacto";
+"contactDriverNoSimKey" = "Contacta al conductor al siguiente número:";
+
+"pleaseWaitResultsKey" = "Un momento, está tardando más tiempo de lo normal";
+
+"connectWithFacebookKey" = "Verificar con Facebook";
+"verifyWithFacebookKey" = "Verificar con Facebook";
+"addLabelKey" = "Añadir nombre";
+"removeFavoriteKey" = "Eliminar favorito";
+"homeLabelKey" = "Casa";
+"workLabelKey" = "Trabajo";
+"customLabelKey" = "Otros";
+"replaceKey" = "Reemplazar";
+"replaceConfirmationKey" = "%@ ya existe.\n¿Lo reemplazamos por “%@” ?";
+"facebookAccountDenialTitleKey" = "Esta cuenta de facebook no pudo ser verificada";
+"facebookAccountDenialDescriptionKey" = "Para continuar, modifica tus datos e intenta nuevamente o agrega un método de pago.";
+
+"settingsKey" = "CONFIGURACIÓN";
+"cancelRideTitleKey" = "¿Cancelar viaje?";
+"orCancelKey" = "o cancela";
+"addPaymentMethodKey" = "Agrega método de pago";
+"verifyCreditCardKey" = "Verificar con tarjeta";
+"failedChargeCardTitleKey" = "No se pudo hacer el cobro";
+"failedChargeCardTextKey" = "No pudimos hacer el cobro pendiente a tu tarjeta de crédito. Puedes agregar otro método de pago o reintentar en %@.";
+"retryCardTitleKey" = "Prueba con esta tarjeta en %@";
+"retryCardTextKey" = "Recientemente intentaste hacer el cobro de S/ a esta tarjeta y no funcionó. Puedes agregar otro método de pago o intentar en %@.";
+"successChargeCardTitleKey" = "Éxito!";
+"successChargeCardTextKey" = "Hemos hecho el cargo el monto pendiente de %@ a tu tarjeta. ¡Podrás seguir utilizándola para tus próximos viajes!";
+"minutesKey" = "minutos";
+"minuteKey" = "minuto";
+"hoursKey" = "horas";
+"hourKey" = "hora";
+"failedSelectPaymentMeanMessageKey" = "No pudimos hacer el cobro de tu último viaje. Por favor, cambia tu método de pago o ingresa uno nuevo.";
+"platesKey" = "Placas";
+"modelKey" = "Modelo";
+"wifiPassKey" = "Wifi";
+"goToSettingsWifiKey" = "Ve a Configuración para el WiFi";
+"freeWifiAvailableKey" = "Wifi disponible";
+"freeWifiKey" = "Wifi disponible";
+"wifiCopiedKey" = "Contraseña de WiFi copiada";
+"retryingKey" = "Reintentar";
+"airportFareDialogKey" = "La tarifa final puede variar debido a hora punta, promociones o el tráfico del momento.";
+"getTaxiKey" = "Consigue un taxi donde estés:\n";
+"returnHomeKey" = "Regresa a Casa en";
+"getToWorkKey" = "Llega al Trabajo en";
+"widgetDisabledLocationKey" = "GPS desactivado\n";
+"widgetLocationPermissionKey" = "Presiona para abrir la aplicación de Beat y habilita el permiso requerido";
+"yourDriverKey" = "Tu conductor";
+"widgetDriverArrivedKey" = "Tu conductor acaba de llegar";
+"arrivedKey" = "llegado";
+"toDestinationKey" = "hasta el destino";
+"enjoyTheRideKey" = "¡Disfruta el viaje!";
+"widgetDriverOnTheWayKey" = "Tu Beat está en camino";
+"onTheWayKey" = "en camino";
+"countMeInKey" = "Empezar ahora";
+"noThanksMakeMoney" = "Después";
+"nonRegisteredNotifKey" = "¡Viaja a partir de S/7! ¿Listo? ¡Vamos!";
+"newDriverDispatchedMessageKey" = "Asignando nueva unidad por cancelación";
+"yesKey" = "Sí";
+"noKey" = "No";
+"gotItKey" = "¡Entendido!";
+"continueKey" = "Continuar";
+"pastRidesKey" = "Viajes pasados";
+"bookingsKey" = "Reservas";
+"pickupKey" = "Punto de recogida";
+"destinationKey" = "Destino";
+"dateTimeKey" = "Día y hora";
+"estimatedPriceKey" = "Precio aproximado";
+"useServiceNowKey" = "Pide tu %@ ahora";
+"termsAndConditionsKey" = "Términos y Condiciones";
+"bookYourServiceKey" = "Reserva tu %@";
+"bookingCancelledKey" = "Reserva cancelada";
+"yourBookingKey" = "Tu reserva";
+"cancelBookingKey" = "Cancelar reserva";
+"confirmBookingKey" = "Confirmar reserva";
+"selectDayAndTimeKey" = "Selecciona el día y la hora";
+
+//HotSpots 17
+
+"welcomeToKey" = "Bienvenido a";
+"confirmLocationKey" = "Confirma tu ubicación";
+
+//BEAT Rebranding 17
+
+"pickUpPointKey" = "Punto de origen";
+"chooseKey" = "Selecciona";
+"myPhoneNumberIsKey" = "MI NÚMERO DE CELULAR ES";
+"myPinCodeIsKey" = "CÓDIGO DE VERIFICACIÓN";
+"myDetailsKey" = "MIS DETALLES SON";
+"noConnectionToBeatSplashScreenTitleKey" = "No se puede conectar a Beat";
+"introduceYourSelfKey" = "¡Preséntate! Yo soy Beat ¿y tú?";
+"fillYourEmailCorrectlyKey" = "Por favor escribe tu correo correctamente";
+"chooseYourCountryKey" = "Escoge tu país";
+"noDestinationFareInfoKey" = "Ingresa tu destino para darte el valor total de la tarifa.";
+"invalidPinCodeKey" = "Este código de verificación no es válido";
+"myStreetNumberIsKey" = "El número de mi calle es";
+"myExactStreetNumberIsKey" = "El número exacto de mi calle es";
+"provideExactStreetNumberKey" = "Por favor bríndanos el número exacto de tu dirección de recojo";
+"adjustStreetNumberKey" = "¡Oops!La dirección de recojo no es exacta, por favor modifícala.";
+"enterYourDestinationKey" = "Ingresa tu destino";
+"destinationTitleKey" = "¿A dónde vamos?";
+"startRideKey" = "Tu viaje empezará pronto";
+"moreDestinationsKey" = "Más destinos";
+"tripConfiramtionTaxiArrivesInKey" = "llega en";
+"pleaseWaitNoDotsKey" = "Por favor espera";
+"noSuggestedPlacesKey" = "Aquí están guardadas tus direcciones sugeridas. Así, te ahorras búsquedas con cada viaje.";
+"noFavoritePlacesKey" = "Ya sea tu casa, trabajo o la acogedora casa de tu abuela, usted puede %@ una dirección para estar a solo un botón de distancia.";
+"noNearbyPlacesKey" = "No pudimos encontrar lugares cercanos";
+"saveDetailsKey" = "Guardar detalles";
+"skipThisStepKey" = "Saltar este paso";
+"singleLetterNameErrorKey" = "Sí, tu inicial está bien y todo... pero, ¿podrías usar tu primer nombre completo por favor?";
+"hotspotIntroDetailsKey" = "Estás en un área con puntos de recojo establecidos. ¡Elige el punto más cercano para iniciar tu viaje por la ciudad!";
+"noResultsForKey" = "Uhmm, no hay resultados para ";
+"searchForAnAddressOrPlaceKey" = "Busca una dirección o lugar";
+"unavailableDriversTitleKey" = "No hay conductores disponibles";
+"unavailableDriversDescriptionKey" = "Parece que no hay conductores disponibles por ahora";
+"addCardKey" = "Agrega";
+"sendToDriverKey" = "Enviar al conductor";
+"shareMyRideDetailsKey" = "Envíale un enlace a tus amigos. Podrán ver tu viaje por la ciudad en tiempo real y saber exactamente a qué hora llegarás";
+"driverCancellationMessageKey" = "Considera que es una buena idea llamar al conductor antes de cancelar, o al menos elige una razón para hacerlo.";
+"rideWonPartOneKey" = "TU %@";
+"rideWonPartTwoKey" = "ESTÁ EN CAMINO";
+"driversAccuracyIsLowTitleKey" = "LA UBICACIÓN DE TU CONDUCTOR NO ES EXACTA";
+"driversAccuracyIsLowMsgKey" = "Por favor sé paciente, tu conductor llegará en un momento.";
+"meetTheDriverAtKey" = "Ubica al conductor en";
+"driverHasArrivedKey" = "Tu conductor ha llegado";
+"contactDriverTooltipKey" = "Puedes contactar al conductor, compartir tu viaje o cancelarlo si algo ocurre.";
+"onTripWithKey" = "En viaje con";
+"recalculatingFareKey" = "Recalculando la tarifa";
+"expiresKey" = "Expira:";
+"myCreditCardKey" = "MI TARJETA DE CRÉDITO";
+"myNewNumberIsKey" = "MI NUEVO NÚMERO ES";
+"emailSettingsExplanationKey" = "Ingresa tu correo aquí arriba para recibir un resumen automático de cada uno tus viajes.";
+"newCardAddedKey" = "Nueva tarjeta añadida";
+"paymentMeansDescWithOutPaymentMeansKey" = "Deja tu billetera en casa. ¡Añade tu tarjeta y viaja sin preocupaciones!";
+"noChargeWarningKey" = "Es posible que se aplique un pequeño cobro que será devuelto inmediatamente.";
+"typeCardDigitsKey" = "Ingresa los 16 dígitos de tu tarjeta";
+"nameProfileKey" = "Mi perfil";
+"splashScreenTagKey" = "¿A dónde vamos?";
+"voucherDetailsByLawKey" = "The details above are required by law.";
+"chooseOnMapKey" = "Elige en el mapa";
+"messageFromDriverKey" = "Mensaje del conductor";
+"chatConnectPinPrefilMessageKey" = "Hola, estoy intentando conectarme, pero nunca me llegó el código PIN. Mi número es %@. ¿Pueden ayudarme?";
+"dropOffScreenUserWithNoFavsNorRecentsKey" = "¡Guarda direcciones y agrega etiquetas para crear tu propia lista de direcciones favoritas! Busca una dirección y empieza ahora.";
+"searchAddressScreenUserWithNoFavsNorRecentsKey" = "Cuando halles una dirección en tu búsqueda, ¡toca el corazón para agregarlo a tus favoritos! Mantén presionado para agregar una descripción.";
+"serviceUnavailbleErrorInCityTitleKey" = "Fuera del área de Beat";
+"serviceUnavailbleErrorInCityDescriptionKey" = "Has establecido un punto de recojo que está fuera de nuestra área operativa. Selecciona una ubicación diferente para continuar.";
+"serviceUnavailbleErrorButttonTitleKey" = "Confirmar nueva ubicación";
+"serviceUnavailbleErrorBetweenCitiesTitleKey" = "Fuera del límite de la ciudad";
+"serviceUnavailbleErrorBetweenCitiesDescriptionKey" = "Desafortunadamente, actualmente no operamos más allá de los límites de la ciudad. Selecciona un punto en la ciudad para continuar.";
+"confirmPickupKey" = "Confirmar punto de recojo";
+"confirmDropoffKey" = "Confirmar dirección";
+
+//Rate your driver
+"thanksForRateKey" = "Gracias por calificar tu viaje";
+
+//Tolls
+
+"tollsChargeKey" = "Peajes";
+
+//Rounded Fare
+
+"roundedFareKey" = "Tarifa redondeada";
+
+//First Time Card
+
+"insufficientFundsModalTitle" = "Tarjeta rechazada";
+"changePaymentMeanModalText" = "Tu solicitud fue cancelada porque se rechazó tu tarjeta de crédito. Prueba con otro medio de pago.";
+"prechargeModalTimeblockMessage" = "Recientemente intentaste usar esta tarjeta para un viaje y fue rechazada. Puedes pagar con efectivo, agregar una nueva tarjeta o intentar usar ésta misma en %@.";
+"cannotDeleteCardNowTitleKey" = "No se puede eliminar la tarjeta ahora";
+"cannotDeleteCardNowMessageKey" = "Recientemente intentaste usar esta tarjeta para un viaje y fue rechazada. Por medidas de seguridad, podrás eliminar esta tarjeta en %@.";
+"prechargeModalTimeBlockTitleKey" = "Intenta usar esta tarjeta de nuevo en %@";
+
+//App to App Communication
+
+"callingDriverKey" = "Llamando conductor...";
+"microphoneKey" = "Habla con tu conductor anónimamente";
+"microphoneMessageKey" = "En cada llamada entre tú y tu conductor, Beat te asegura completo anonimato. Por favor activa el micrófono en las opciones de la app.";
+"beatDriverKey" = "Beat Conductor";
+"callEndedKey" = "Llamada Finalizada";
+"pleaseGiveAccessKey" = "En cada llamada entre tú y tu conductor, Beat te asegura completo anonimato.Presiona OK en el siguiente cuadro para activar el micrófono. ";
+"giveAccessKey" = "DAR ACCESO";
+"incomingCallKey" = "Llamada entrante...";
+
+
+//Menu Redesign
+
+"helloKey" = "Hola,";
+"addYourInfoKey" = "¿Quién eres?";
+"fillYourDetailsKey" = "Completa tus datos personales en tu cuenta";
+
+//Passenger auto unblock
+
+"accountSuspendedForKey" = "Cuenta suspendida por";
+"cancellationExplanationKey" = "Debido a muchas cancelaciones recientes, tu cuenta ha sido suspendida de forma automática. Podrás solicitar un viaje nuevamente en %@.";
+"daysKey" = "días";
+
+//Avoid ride cancellation message
+
+"tooManyCancellationsAlertKey" = "Tu conductor ya está en camino. ¿Estás seguro/a que quieres cancelar el viaje?";
+"confirmCancellationKey" = "Si, cancelar viaje";
+"cancellationExplanationNoTimeKey" = "Debido a muchas cancelaciones recientes, tu cuenta ha sido suspendida de forma automática.";
+
+//Rating redesign
+
+"paidAutomaticallyExplanationKey" = "Tu viaje será pagado de forma automática.";
+"rateYourRideKey" = "Mi viaje fue";
+"oneStarExperienceKey" = "Muy malo";
+"twoStarsExperienceKey" = "Malo";
+"threeStarsExperienceKey" = "Moderado";
+"fourStarsExperienceKey" = "Bastante bueno";
+"fiveStarsExperienceKey" = "¡Excelente!";
+"whatShouldImproveKey" = "¿Por qué no calificaste el viaje con 5 estrellas?";
+"ratingSetDriverFavExplanationKey" = "Presiona la 5ta estrella nuevamente para marcar como favorito a tu conductor";
+"driverAddedToFavoritesKey" = "¡Conductor añadido a favoritos!";
+"addTipTitleKey" = "¿Te gustó el viaje? Agrega una propina.";
+"ratingAnonymousExplanationKey" = "Todas las calificaciones son anónimas";
+
+//New Terms and Conditions
+
+"newTermsAndConditionsWebviewTitleKey" = "ACTUALIZAMOS NUESTROS\nTÉRMINOS DE USO";
+"newTermsAndConditionsReadKey" = "He leído los Términos de Uso";
+"newTermsAndConditionAcceptKey" = "Aceptar & Continuar";
+
+//Cash Tooltip
+
+"paymentChangedToCashKey" = "El método de pago ha cambiado";
+
+//SHARE LIVE LOCATION
+
+"shareLocationPromptTooltipTitleKey" = "Ayuda a tu conductor a encontrarte";
+"shareLocationPromptTooltipSubtitleKey" = "Comparte tu ubicación en vivo";
+"shareLocationStoppedTooltipTitleKey" = "Dejaste de compartir tu ubicación";
+"shareLocationActiveTooltipTitleKey" = "Compartiendo ubicación en vivo";
+"shareLocationModalTitleKey" = "Muéstrale a tu conductor tu ubicación en vivo";
+"shareLocationModalMessageKey" = "Para ayudar a tu conductor y que te recoja de forma rápida, ahora puedes compartir tu ubicación en vivo con él desde que acepta tu solicitud hasta el incio de tu viaje.";
+"confirmButtonKey" = "Confirmar";
+
+//Driver's DNI
+
+"identificationLabelKey" = "DNI DEL CONDUCTOR";
+
+//Tolls in trip Confirmation
+
+"fareDialogGeneralExplanation" = "Esta es la tarifa final que pagarás por este viaje, a menos que cambies tu destino durante el viaje.";
+"fareDialogNoTollsIncludedGeneralExplanation" = "Esta es la tarifa que pagarás por este viaje, a menos que pases por un peaje o cambies tu destino durante tu viaje.";
+"fareTitleKey" = "Tarifa";
+
+//Tolls not included
+
+"tollsExtendedDisclaimerKey" = "*En caso de viajes por autopista, se adicionarán los peajes correspondientes al final del viaje.";
+
+// GDPR
+
+"readMoreKey" = "Leer más";
+"privacyAndSecurityKey" = "Privacidad & Seguridad";
+"privacyExplanationKey" = "Controla cómo Beat usa tu información.";
+"permissionsKey" = "Permisos";
+"disableToggleModalMessageKey" = "Al desactivar esta configuración estarás desasociando toda tu información de tu cuenta. ¿Estás seguro?";
+"disableButtonKey" = "Desactivar";
+"downloadDataKey" = "Descargar mi información";
+"ageConsentKey" = "declaras que tienes más de %@ años de edad.";
+"ageConsentCheckBoxKey" = "y confirmo tener %@ años de edad o más.";
+"deleteAccountKey" = "Borrar cuenta";
+"newPrivacyFeaturesKey" = "¡Nueva configuración de privacidad y seguridad!";
+"privacyIntroExplanationKey" = "Beat ahora te permite controlar qué información tuya es usada para recibir contenido personalizado, promociones, encuestas y nuevas características del aplicativo. ¡Elige las que quieras!";
+"agreeToTermsAndPrivacyPolicyKey" = "Al continuar para aceptar nuestros %@ y %@";
+"termsAndPrivacyPolicyCheckBoxKey" = "Acepto los %@ y %@";
+"privacyPolicyKey" = "Política de Privacidad";
+"termsOfUseAccusativeKey" = "Términos de Uso";
+"termsOfUseNominativeKey" = "Términos de Uso";
+"legalKey" = "Términos Legales";
+"myVerificationCodeKey" = "Mi código de verificación";
+"verificationCodeKey" = "Código de verificación";
+"verificationCodeExplanationKey" = "Ingresa el código de verificación que te enviamos por SMS al %@. Está sesión caducará después de %@.";
+"areYouSureKey" = "¿Estás seguro?";
+"accountDeletionWarningMessageKey" = "Esta es una acción irreversible y destructiva. Se perderán todos tus viajes, preferencias e información y no podrás acceder a Beat con este número nuevamente.";
+"accountDeletionWarningNoteKey" = "Importante: Si tienes pagos pendientes, algunos de tus datos se conservarán para liquidar la deuda.";
+"irreversibleAndDestructiveActionKey" = "irreversible y destructiva";
+"confirmDeletionKey" = "Confirmar eliminación";
+"farewellMessageKey" = "Esta es una acción irreversible y destructiva. Se perderán todos tus viajes, preferencias e información y no podrás acceder a Beat con este número nuevamente.";
+"deleteMyAccountKey" = "Borrar mi cuenta";
+"accountDeletedKey" = "Cuenta borrada";
+"accountDeletedExplanationKey" = "La cuenta asociada con el número %@ ha sido eliminada. Para obtener más ayuda, comuníquese con nuestro equipo de soporte.";
+
+//Rating Pick up
+
+"myPreviousRideWasKey" = "Mi último viaje fue";
+
+//GDPR Export
+
+"exportExplanationKey" = "Obtén una copia de toda la información asociada a tu cuenta Beat. Recibirás un archivo con tu información a través de un link que será enviado al email ingresado.";
+"requestDataKey" = "Solicitar Información";
+"checkYourEmailKey" = "Revisa tu email";
+"downloadDataModalMessageKey" = "Recibirás pronto un email a %@ con un link para descargar tu información. Este link es válido por 6 horas.";
+"exportDataLinkExistsKey" = "Recientemente te envíamos un link a tu email para descargar tu información. Este link es válido por 6 horas.";
+
+//BackToBackRides
+
+"completingNearbyRideKey" = "Completando un viaje cerca";
+
+//Apple Watch
+
+"cancellingRideKey" = "Cancelando Viaje";
+"loggedOutTitleKey" = "Has cerrado sesión";
+"loggedOutMessageKey" = "Ingresa con tu cuenta para solicitar un Beat";
+"locationPermissionTitleKey" = "Permite que Beat acceda a tu locación";
+"locationPermissionMessageKey" = "Cambia los permisos en la configuración de la app.";
+"firstRideTitleKey" = "Primero haz un viaje desde tu teléfono";
+"firstRideMessageKey" = "Tu reloj tendrá acceso a tus destinos recientes/favoritos";
+"noAvailableDriversTitleKey" = "No hay conductores disponibles";
+"noAvailableDriversMessageKey" = "Puedes seleccionar otro punto de recojo desde tu teléfono";
+"noNearbyDriversTitleKey" = "No hay conductores cerca";
+"returnToPickupKey" = "Volver al punto de recojo";
+"approachingKey" = "En camino";
+"driverHasArrivedWatchKey" = "El conductor ha llegado";
+
+//Payment method from Registration
+
+"registrationPaymentSubtitleKey" = "Selecciona tu método de pago preferido y viaja sin preocupaciones";
+"registrationPaymentAddCardKey" = "Agrega tu tarjeta";
+"verifyMyAccountTitleKey" = "Verifica tu cuenta";
+"cannotDeletePaymentMethodTitle" = "No se puede eliminar el método de pago";
+"addPaymentButton" = "Agregar";
+"cannotDeletePaymentMethodText" = "Por seguridad, siempre debes tener al menos un método de pago agregado. Para eliminarlo, agrega otro.";
+
+// Payment method from Verification
+"paymentMethodCouldNotBeVerifiedTitleKey" = "Este método de pago no pudo ser verificado";
+"paymentMethodCouldNotBeVerifiedDescriptionKey" = "Para continuar, por favor corrige tus datos e intenta de nuevo ó conéctate con Facebook.";
+
+// Verification change payment mean modal
+"verificationPaymentMethodChangeToCardKey" = "Tu método de pago ha sido actualizado a tarjeta. Puedes cambiarlo cuando quieras.";
+
+// Verification
+"accountVerifiedKey" = "Cuenta verificada";
+
+//Multiple Products
+
+"useKey" = "Usa";
+
+//No Available Drivers Modal
+"multipleServicesNoAvailableDriversModalTitleKey" = "Todos los conductores de %@ no están disponibles";
+"multipleServicesNoAvailableDriversModalMsgKey" = "Todos los conductores de %@ están en viaje. Intenta de nuevo o ve más rápido con otro servicio";
+"singleServiceNoAvailableDriversModalTitleKey" = "Conductores en carrera";
+"singleServiceNoAvailableDriversModalMsgKey" = "Parece que no hay nadie disponible en este momento";
+"changeServiceKey" = "CAMBIAR SERVICIO";
+"goBackKey" = "VOLVER";
+
+//SafetyKit
+
+"safetyKitPanelTitleKey" = "Kit de seguridad";
+"safetyKitPanelCurrentLocationTitleKey" = "Ubicación actual";
+"unabledToMakePhoneCallKey" = "No se puede llamar. Tu dispositivo no puede realizar o recibir llamadas.";
+"safetyKitVehicleInfoTitleKey" = "Información del vehículo";
+"safetyKitPanelCallKey" = "LLAMA";
+"safetyKitLocatingKey" = "Actualizando ubicación";
+"safetyKitLicatingErrorKey" = "No se pudo encontrar tu ubicación";
+"safetyKitPanelExplanationKey" = "¿Pasó algo? Informa a las autoridades locales los detalles de tu viaje inmediatamente.";
+
+// Service Fee
+"serviceFeeTitleKey" = "Cuota de servicio";
+
+//MyRides
+"notDefinedKey" = "Not defined";
+"canceledKey" = "Cancelled";
+"myRidesNoUpcomingRideTitleKey" = "No tienes ninguna reserva todavía";
+"myRidesNoPastRideTitleKey" = "No has hecho ningún viaje todavía";
+"myRidesNoUpcomingRideSubtitleKey" = "Cuando hagas una reserva, podrás ver aquí toda la información";
+"myRidesNoPastRideSubtitleKey" = "Cuando hagas un viaje, podrás ver aquí toda la información";
+
+// Goverment Fee
+"governmentFeeTitleKey" = "Contribución Gob.";
+
+// Surcharge fees
+"surchargeFeesTitleKey" = "Tarifa de recargo";
+
+// Greece Migration
+"grMigrationBeatFreeNowTitleKey" = "Beat is becoming FREE NOW";
+"grMigrationBeatFreeNowDescriptionKey" = "Your favourite way to book taxis is getting even better! Join us on Europe's mobility super app.";
+"grMigrationHeartTitleKey" = "Get there your way";
+"grMigrationHeartDescriptionKey" = "Τaxi or eBike? Getting across the city just got more flexible (and fun) with eBikes!";
+"grMigrationCompassTitleKey" = "One app, 10 countries";
+"grMigrationCompassDescriptionKey" = "Carry on using FREE NOW in over 150 cities across Europe! Like the sound of easy airport transfers?";
+"grMigrationMobileTitleKey" = "Endless possibilities with FREE NOW";
+"grMigrationMobileDescriptionKey" = "Enjoy even more choice and choose from standard, comfort, and eco taxis. Plus, you can now book in advance!";
+"grMigrationAccountReadyTitleKey" = "Your FREE NOW account is ready";
+"grMigrationAccountReadyDescriptionKey" = "We’ve transferred all the essential info from your Beat account. Just head to FREE NOW to book your next trip.";
+"grMigrationInProgressTitleKey" = "Transforming into FREE NOW (it only takes a minute)";
+"grMigrationInProgressDescriptionKey" = "Soon you’ll be free to enjoy new ways to travel, pre-book trips, and pay your way… all with FREE NOW!";
+"grMigrationErrorTitleKey" = "Oops! Something went wrong…";
+"grMigrationErrorDescriptionKey" = "Please check your internet connection and try again.";
+"grMigrationErrorButtonTitleKey" = "Try again";
+"grMigrationFREENOWUserTitleKey" = "It looks like you’ve already got a FREE NOW account!";
+"grMigrationSwitchNowButtonTitleKey" = "Transfer your account";
+"grMigrationLaunchFREENOWButtonTitleKey" = "Open the app";
+"grMigrationTermsPrefixKey" = "By continuing you agree to our";
+"grMigrationTermsOfServiceKey" = "Terms of service";
+
+// Change Payment Method
+
+"changePaymentMethodAddCardKey" = "Para poder usar este servicio primero debes agregar una tarjeta válida";
+"changePaymentMethodSelectCardKey" = "Para poder usar este servicio primero debes elegir una tarjeta válida";
+"changePaymentMethodCardOnlyKey" = "(Servicio solo con tarjeta)";
+
+// Driver Approaching
+"rideWonKey" = "Tu %@ está en camino";
+
+// Location Error
+"locationErrorKey" = "Error de ubicación";
+"troubleFindingYouKey" = "¡Tenemos problemas para encontrarte! Utiliza el mapa para confirmar tu ubicación actual.";
+
+// Marker
+"moveMapToSetKey" = "Mueve para fijar";
+"releaseToConfirmKey" = "Suelta para confirmar";
+"changePickupTitleKey" = "Dirección de origen";
+"changePickupTooltipKey" = "¡Nuevo! Toca aquí para cambiar la dirección de origen";
+
+// Services
+"servicePickupEtaKey" = "Recojo en %@ min";
+
+// Wallet
+"walletTitleKey" = "Beat Recarga";
+"walletDescriptionKey" = "Puede transferir dinero a tu billetera para pagar tus próximos viajes con mayor comodidad y seguridad.";
+"accessMyWalletKey" = "IR A MIS RECARGAS";
+
+// Verification
+"staySafeTitleKey" = "Seguridad en Beat.";
+"staySafeDescriptionKey" = "Verificamos la cuenta de todos los conductores y pasajeros para asegurar que sean de confianza.";
+"dataIsProtectedTitleKey" = "Viaja tranquilo.";
+"dataIsProtectedDescriptionKey" = "Los conductores solo verán tu nombre. El resto de la información es protegida bajo políticas de privacidad.";
+"verifyWithIdKey" = "Verificar con documento";
+
+// National ID Verification
+"nationalIDTitleKey" = "Agrega tu información";
+"nationalIDFirstNameTitleKey" = "Nombre(s)";
+"nationalIDLastNameTitleKey" = "Apellidos(s)";
+"nationalIDTypeAsIsKey" = "Llena igual que en tu documento";
+"nationalIDGenderKey" = "Género";
+"nationalIDChooseGenderKey" = "Elige tu género";
+"nationalIDMaleKey" = "Masculino";
+"nationalIDFemaleKey" = "Femenino";
+"nationalIDOtherKey" = "Otro";
+"nationalIDDateOfBirthTitleKey" = "Fecha de nacimiento";
+"nationalIDVerifyKey" = "Verificar";
+"nationalIDVerifyingKey" = "Verificando tu información";
+"nationalIDSuccessfulKey" = "¡Verificación exitosa!";
+"nationalIDFieldErrorKey" = "Asegúrate que la información coincida con tu documento.";
+"nationalIDDateOfBirthFieldErrorKey" = "Verifica que la información sea correcta.";
+"nationalIDErrorTitleKey" = "Error en la verificación";
+"nationalIDDetailErrorSubtitleKey" = "Desafortunadamente, no pudimos autorizar tu identidad. Asegúrate de que tus datos sean precisos antes de volver a intentarlo.";
+"nationalIDMaxAttemptsErrorSubtitleKey" = "No puedes continuar ya que excediste el número máximo de intentos fallidos. Verifica tu cuenta con una tarjeta de crédito.";
+"nationalIDMaxAttemptsErrorNonCreditCardFlowSubtitleKey" = "En estos momentos no puedes continuar con la verificación, ya que has excedido el número máximo de intentos fallidos. Por favor, inténtalo más tarde.";
+"nationalIDVerifyYourIdentityKey" = "Verifica tu identidad";
+"nationalIDVerifyNowKey" = "Verificar ahora";
+"nationalIDIdentityVerifiedKey" = "Identidad verificada";
+"nationalIDMaxAttemptsKey" = "Excediste el número máximo de intentos fallidos. Por favor, inténtalo más tarde. ";
+"nationalIDDeleteKey" = "Borrar tus datos de DNI";
+"nationalIDDeleteVerificationKey" = "¿Estás seguro que quieres eliminar los datos de tu DNI?";
+"nationalIDDetailsDeletedKey" = "Datos de DNI eliminados";
+"nationalIDDeleteVerificationAlertNoteKey" = "Si eliminas tus datos, perderás la verificación de identidad.";
+"nationalIDVerifiedTitleKey" = "Tu identidad está correctamente verificada ";
+"nationalIDVerifiedNoteOneKey" = "Por la seguridad de nuestra comunidad, pedimos a todos los usuarios que verifiquen su identidad. ";
+"nationalIDVerifiedNoteTwoKey" = "Tus datos de identidad son confidenciales y no los compartimos con nadie.";
+"nationalIDVerifiedNoteThreeKey" = "Los conductores prefieren aceptar solicitudes de viaje de pasajeros con la identidad verificada.";
+
+// Cancel Request
+"cancelButtonTitleKey" = "Cancelar solicitud";
+"cancelConfirmationKey" = "¿Seguro que quieres cancelar? \n Un conductor podría aceptar tu viaje muy pronto.";
+"keepSearchingKey" = "Seguir buscando";
+"cancelRequestKey" = "Cancelar solicitud";
+
+// Request loader view
+"confirmingRideDetailsKey" = "Confirmando detalles del viaje";
+"searchingForDriversKey" = "Buscando conductores";
+"waitingDriverResponseKey" = "Esperando confirmación";
+
+// Facebook revocation
+"facebookRevocationTitleKey" = "Estás conectado a tu cuenta de Facebook.";
+"facebookRevocationButtonTitleKey" = "Desconectarte de Facebook ";
+"facebookRevocationDialogMessageKey" = "Tu foto de perfil y demás credenciales de Facebook se perderán. Los cambios pueden tardar en aplicarse. ¿Estás seguro de que quieres continuar?";
+"facebookDisconnectedKey" = "Facebook desconectado";
+
+// Shedule a ride
+"scheduleRideBookingCreatedKey" = "Reserva confirmada";
+"scheduleRideBookingCreatedMessageKey" = "Puedes consultar los detalles de tu reserva en la sección “Mis viajes” dentro del menú principal. Te notificaremos cuando haya un vehículo disponible para tu reserva.";
+"scheduleRideDisclaimerKey" = "Tu vehículo podría llegar entre las %@";
+"scheduleRideValidationErrorKey" = "Ya tienes otra reserva a la misma hora. Intenta introducir una hora de recogida diferente.";
+"scheduleRideTermsDisclaimerKey" = "Al confirmar la reserva, aceptas nuestros %@";
+"scheduleRideEstimatedPriceDisclaimerKey" = "El precio final aparecerá cuando te asignemos un vehículo. No te cobraremos nada hasta que termine la reserva.";
+"scheduleRideConfirmUpcomingRideCancellationKey" = "¿Seguro que quieres cancelar tu reserva?";
+"scheduleRideLimitReachedErrorKey" = "Ya has alcanzado el máximo de reservas posibles.";
+"scheduleRideButtonKey" = "Pídelo para más tarde";
+
+// MultipleStops
+"multipleStopsTitleKey" = "Multi parada";
+"multipleStopsAddStopKey" = "Añadir parada";
+"multipleStopsTooltipKey" = "¡Nuevo! Añade paradas a tu viaje";
+"multipleStopsTimeTitleKey" = "Añade hasta 3 paradas";
+"multipleStopsTimeDescriptionKey" = "Verás el precio final en el siguiente paso.";
+"DoneActionButtonTitleKey" = "Hecho";
+"multipleStopsInStateInfoTitleKey" = "El tiempo es oro";
+"multipleStopsInStateInfoDescriptionKey" = "Intenta que el conductor no tenga que esperar demasiado tiempo en la parada.";
+"multipleStopsInStateModifyTripMessageKey" = "Ya no puedes modificar el viaje. Si necesitas cambiar o eliminar una parada, pídeselo al conductor.";
+
+// Passenger in car check
+"passengerInCarSurveyTitleKey" = "¿Has empezado el viaje?";
+"passengerInCarSurveySubtitleKey" = "Hemos visto que tu ubicación y la del conductor están bastante alejadas. ¿Puedes compartirnos cuál es tu situación?";
+"passengerInCarSurveyFirstOptionKey" = "He empezado el viaje";
+"passengerInCarSurveySecondOptionKey" = "He pedido el viaje para otra persona";
+"passengerInCarSurveyThirdOptionKey" = "El viaje ha empezado sin mí";
+"passengerInCarSurveyButtonTextKey" = "Enviar";
+
+// Profile picture
+"retake" = "Retake";
+"makeSureFaceInstructions" = "Make sure your face is well lit and visible";
+"addPicture" = "Add picture";
+"faceInCircleInstructions" = "Place your face inside the circle and say cheese!";
+"addAProfilePicture" = "Add a profile picture";
+"moreChancesIfProfilePictureAvailable" = "Drivers feel more comfortable and tend to accept ride requests faster if they can clearly see the passenger face. Adding your profile picture is a win-win!";
+"addFromLibrary" = "Add from library";
+"fromLibrary" = "From library";
+"takePhoto" = "Take new photo";
+"deletePhoto" = "Delete photo";
+"allowCameraFromSettings" = "Go to your settings to allow Beat to use your camera.";
+"nicePicture" = "That’s a nice profile picture";
+"deletingPictureReducesRideChances" = "Deleting your profile picture will reduce your chances of finding a driver. Are you sure?";
+"yesDelete" = "Yes, delete";
