@@ -1,0 +1,13 @@
+# 
+# Translators:
+# kgeo deepl <kgeo@transifex.com>, 2023
+# 
+msgid ""
+msgstr ""
+"Last-Translator: kgeo deepl <kgeo@transifex.com>, 2023\n"
+"Language-Team: Norwegian Bokmål (Norway) (https://www.transifex.com/qatest/teams/108845/nb_NO/)\n"
+"Language: nb_NO\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "test"
+msgstr "Spania"
