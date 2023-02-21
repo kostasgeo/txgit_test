@@ -1,0 +1,13 @@
+# 
+# Translators:
+# kgeo deepl <kgeo@transifex.com>, 2023
+# 
+msgid ""
+msgstr ""
+"Last-Translator: kgeo deepl <kgeo@transifex.com>, 2023\n"
+"Language-Team: Greek (https://www.transifex.com/qatest/teams/108845/el/)\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "test"
+msgstr "Ισπανία"
