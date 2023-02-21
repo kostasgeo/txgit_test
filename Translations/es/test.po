@@ -1,0 +1,13 @@
+# 
+# Translators:
+# kgeo deepl <kgeo@transifex.com>, 2023
+# 
+msgid ""
+msgstr ""
+"Last-Translator: kgeo deepl <kgeo@transifex.com>, 2023\n"
+"Language-Team: Spanish (https://www.transifex.com/qatest/teams/108845/es/)\n"
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+msgid "test"
+msgstr "España"
