@@ -1,0 +1,13 @@
+# 
+# Translators:
+# kgeo deepl <kgeo@transifex.com>, 2023
+# 
+msgid ""
+msgstr ""
+"Last-Translator: kgeo deepl <kgeo@transifex.com>, 2023\n"
+"Language-Team: Bulgarian (Bulgaria) (https://www.transifex.com/qatest/teams/108845/bg_BG/)\n"
+"Language: bg_BG\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "test"
+msgstr "Испания"
