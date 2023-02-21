@@ -1,0 +1,13 @@
+# 
+# Translators:
+# kgeo deepl <kgeo@transifex.com>, 2023
+# 
+msgid ""
+msgstr ""
+"Last-Translator: kgeo deepl <kgeo@transifex.com>, 2023\n"
+"Language-Team: Chinese Simplified (https://www.transifex.com/qatest/teams/108845/zh-Hans/)\n"
+"Language: zh-Hans\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "test"
+msgstr "西班牙"
