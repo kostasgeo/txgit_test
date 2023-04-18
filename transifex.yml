@@ -1,8 +1,8 @@
 git:
   filters:
    - filter_type: dir
-     file_format: PO
-     source_file_extension: po
+     file_format: YAML
+     source_file_extension: yml
      source_language: en
      source_file_dir: Source/
      translation_files_expression: 'Translations/<lang>'
